@@ -39,7 +39,9 @@ I am passionate about building scalable software, creating effective solutions, 
 <br />
 
 ### My GitHub stats
-![BK Github stats](https://github-readme-stats.vercel.app/api?username=dynamicbalaji&show_icons=true)
+![BK Github stats](https://github-readme-stats.vercel.app/api?username=dynamicbalaji&show_icons=true&count_private=true) <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicbalaji&layout=compact)
 
 [website]: https://balajiashokkumar.netlify.com/
 [twitter]: https://twitter.com/@dynamicbalaji
