@@ -11,7 +11,7 @@
 
 Solution Architect with 16+ years of experience designing and shipping software that works at scale. I've led architecture decisions across enterprise systems, built full-stack products from scratch, and lately I've been deep in AI — LLM pipelines, agentic workflows, and production-grade RAG systems.
 
-Based in Chennai. Open to **senior roles, consulting, and freelance projects** — especially where the problem is genuinely hard.
+Based in Toronto,Canada. Open to **senior roles, consulting, and freelance projects** — especially where the problem is genuinely hard.
 
 ---
 
