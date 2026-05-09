@@ -1,67 +1,66 @@
-### Hi there 👋, I am Balaji Ashok Kumar!
-###### *Full Stack Professional*
+# Hey, I'm Balaji 👋
 
-I am a Full Stack developer with industry experience building websites and web applications. I specialize in Java, JavaScript, HTML5, CSS3 and have professional experience working with React and Angular.
+Solution Architect with 16+ years of experience designing and building software that actually works at scale. I've shipped enterprise systems, led cross-functional teams, and lately I've been deep in AI-powered applications — from LLM pipelines to agentic workflows.
 
-I am passionate about building scalable software, creating effective solutions, and learning every day to grow professionally in the IT field.
+I'm based in Chennai and open to **senior roles, consulting, and freelance projects** — especially where the problem is genuinely hard.
 
-* Frontend: React, Angular, Javascript, HTML5, CSS3
-* Backend: Java, NodeJS, Scala
-* Cloud Computing: Azure, OCI, GCP
-* CI/CD: Jenkins 
+---
 
+## What I work with
 
-### You can also find me on
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+**Languages**  
+Java · Python · JavaScript · TypeScript
 
-### Languages and Tools:
+**Frontend**  
+React · Next.js · Angular
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+**Backend & Architecture**  
+Node.js · Scala · REST · GraphQL · Microservices · Event-driven systems
 
-<br />
+**AI / ML**  
+LangChain · CrewAI · OpenAI API · RAG pipelines · Prompt engineering
 
-### My GitHub stats
-<a href="https://balajiashokkumar.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dynamicbalaji&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://balajiashokkumar.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicbalaji&layout=compact" />
-</a>
+**Cloud & DevOps**  
+Azure · GCP · OCI · Jenkins · Docker · CI/CD
 
-[website]: https://balajiashokkumar.netlify.com/
-[twitter]: https://twitter.com/@dynamicbalaji
-[instagram]: https://www.instagram.com/dynamicbalaji/
-[linkedin]: https://www.linkedin.com/in/balaji-ashok-kumar-72a30613/
+**Data**  
+MySQL · MongoDB · PostgreSQL
 
-<!--
-**dynamicbalaji/dynamicbalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Projects worth looking at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧳 [Trip Planner — CrewAI](https://github.com/dynamicbalaji/trip-planner-crew)
+An agentic AI trip planner built with CrewAI and Python. Multiple AI agents collaborate to research destinations, build itineraries, and handle constraints — a real-world test of multi-agent orchestration.
+
+### 🦠 [COVID-19 Tracker](https://github.com/dynamicbalaji/covid19-tracker)
+Real-time global COVID stats dashboard built with React. Fetches live data, renders interactive charts, and handles dynamic filtering. Clean frontend work from a fast-moving project.
+
+### 🧪 [Angular Unit & Integration Testing Demos](https://github.com/dynamicbalaji/ngTestingDemo)
+Two repos covering Angular testing patterns — unit and integration. Forked by others, which tells me people actually found it useful.
+
+---
+
+## What I'm working on right now
+
+- Building AI-powered tools using **LangChain + Next.js** for real-world business workflows  
+- Exploring **multi-agent systems** with CrewAI for complex, multi-step tasks  
+- Sharpening my RAG architecture skills for production-grade retrieval systems
+
+---
+
+## Open to
+
+- 💼 Senior/Principal Engineer or Architect roles (remote-first)
+- 🤝 Freelance & consulting — system design, AI integration, full-stack builds
+- 🧠 Interesting problems involving scale, AI, or both
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji%20Ashok%20Kumar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/balaji-ashok-kumar-72a30613/)
+[![Twitter](https://img.shields.io/badge/X-@dynamicbalaji-000000?style=flat&logo=x)](https://twitter.com/dynamicbalaji)
+[![Website](https://img.shields.io/badge/Portfolio-balajiashokkumar.netlify.app-brightgreen?style=flat&logo=netlify)](https://balajiashokkumar.netlify.app/)
+
+📬 **For work inquiries:** reach out on LinkedIn — I respond within 24 hours.
